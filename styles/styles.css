@@ -137,6 +137,7 @@ body{
     background-color: rgb(0, 0, 0, 0.02);
     text-align: center;
     -webkit-text-stroke: 0.8px rgb(17, 17, 17);
+    font-family: "Poppins";
 }
 
 /* info container */
